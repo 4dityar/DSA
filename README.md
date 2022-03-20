@@ -1,2 +1,2 @@
 # DSA
-Coding practice
+Solutions submitted on various coding platforms.
